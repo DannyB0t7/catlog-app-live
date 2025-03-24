@@ -1,6 +1,7 @@
 # 🐱 Catlog
 
-Catlog is a React app that displays different breeds of cats, allowing users to browse, view details, and save favorites. Built with React Router for navigation, Context API for state management, and styled using Tailwind CSS with DaisyUI components.
+Catlog is a React app that displays different breeds of cats, allowing users to browse, view details, and save favorites. It uses `React Router` for navigation, `Context API` for global state management, and `useState` for handling component-level states. The app is styled using `Tailwind CSS` with `DaisyUI` components.
+
 
 ## ✨ Features
 
